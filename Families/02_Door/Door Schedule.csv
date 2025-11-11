@@ -1,0 +1,7 @@
+﻿Door Schedule,,,,,,,,,,,,,,,
+Family and Type,Width,Height,ClearOpening,VP_Width,VP_Height,VP_On,Fire Rating,Mark,Comments
+,,,,,,,,,
+ARCH_Door_SingleFlush_VisionPanel: D800x2000_VP150x450_High,800,2000,770,150,450,Yes,,102,
+ARCH_Door_SingleFlush_VisionPanel: D800x2100_VP200x600,800,2100,770,200,600,Yes,EI30,101,
+ARCH_Door_SingleFlush_VisionPanel: D900x2100_VP0,900,2100,870,200,600,No,,103,
+ARCH_Door_SingleFlush_VisionPanel: D900x2100_VP250x600_O50,900,2100,870,250,600,Yes,EI30,104,

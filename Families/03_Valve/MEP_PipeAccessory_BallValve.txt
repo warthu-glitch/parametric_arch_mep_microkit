@@ -1,0 +1,7 @@
+,DN##LENGTH##millimeters,BodyLength##LENGTH##millimeters,Kvs_Number##OTHER##
+"DN15",15,65,"3.2"
+"DN20",20,75,"6.3"
+"DN25",25,85,"10.0"
+"DN32",32,100,"16.0"
+"DN40",40,115,"25.0"
+"DN50",50,130,"40.0"
